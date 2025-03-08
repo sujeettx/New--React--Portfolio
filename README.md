@@ -1,7 +1,7 @@
 # Sujeet Kushwaha's Portfolio 🚀
 
 <div align="center">
-  <img src="/api/placeholder/800/400" alt="Portfolio Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Portfolio Banner" width="800"/>
 </div>
 
 <p align="center">
@@ -22,7 +22,7 @@ This portfolio website showcases my skills, projects, and professional experienc
 
 <div align="center">
   <a href="https://sujeetkushwaha.vercel.app" target="_blank">
-    <img src="/api/placeholder/800/450" alt="Portfolio Website Screenshot" />
+    <img src="./Images/Screenshot 2025-03-08 091649.png" alt="Portfolio Website Screenshot" />
   </a>
   
   ### [Visit My Portfolio](https://sujeetkushwaha.vercel.app)
@@ -56,11 +56,11 @@ This portfolio website showcases my skills, projects, and professional experienc
 ## 💻 Technologies
 
 <p align="center">
-  <img src="/api/placeholder/60/60" alt="React" title="React" />
-  <img src="/api/placeholder/60/60" alt="JavaScript" title="JavaScript" />
-  <img src="/api/placeholder/60/60" alt="Vite" title="Vite" />
-  <img src="/api/placeholder/60/60" alt="Styled Components" title="Styled Components" />
-  <img src="/api/placeholder/60/60" alt="Framer Motion" title="Framer Motion" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="60" height="60"/>
+  <img src="https://vitejs.dev/logo.svg" alt="Vite" title="Vite" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" title="Styled Components" width="60" height="60"/>
+  <img src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" alt="Framer Motion" title="Framer Motion" width="60" height="60"/>
 </p>
 
 - **React**: Frontend library for building user interfaces
@@ -118,9 +118,9 @@ The portfolio is fully responsive and optimized for:
 - Desktop monitors
 
 <div align="center">
-  <img src="/api/placeholder/200/400" alt="Mobile View" />
-  <img src="/api/placeholder/300/400" alt="Tablet View" />
-  <img src="/api/placeholder/400/400" alt="Desktop View" />
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Mobile View" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-7e1a-4fc0-90a5-e0f4b77562a7.png" alt="Tablet View" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216122052-61027a1d-d4ce-4e3c-9eae-8565644307fe.png" alt="Desktop View" width="400"/>
 </div>
 
 ## 📬 Contact
@@ -139,5 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8cc5c1-1b0b-4146-b105-db4dbbc8e0c3.png" alt="Thank You" width="100" height="100"/>
+  <br>
   Made with ❤️ by Sujeet Kushwaha
 </p>
