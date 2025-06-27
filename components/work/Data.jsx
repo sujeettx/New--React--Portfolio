@@ -2,10 +2,12 @@ import Work1 from '../../src/assets/Screenshot 2025-03-07 213049.png';
 import Work2 from '../../src/assets/Screenshot 2025-03-07 214134.png';
 import Work3 from '../../src/assets/Screenshot 2025-03-07 214614.png';
 import Work4 from '../../src/assets/online-event-registration-1280x720-2142544298.png';
+import Work5 from '../../src/assets/Screenshot 2025-03-08 191840.png';
 import Work7 from '../../src/assets/Screenshot 2025-03-07 220117.png';
 import Work8 from '../../src/assets/Screenshot 2025-03-07 220250.png';
 import Work9 from '../../src/assets/Backend-Development.webp';
-import Work5 from '../../src/assets/Screenshot 2025-03-08 191840.png';
+import work10 from '../../src/assets/image.png';
+
 
 export const projectsData = [
 	{
@@ -81,6 +83,15 @@ export const projectsData = [
 		category: 'Frontend',
 		demoUrl: 'https://sujeettx.github.io/Landing-page/',
 		sourceUrl: 'https://github.com/sujeettx/Landing-page',
+		status: 'completed',
+	},
+	{
+		id: 10,
+		image: work10,
+		title: 'Real-Estate',
+		category: 'Frontend',
+		demoUrl: 'https://real-estate-olive-eight.vercel.app/',
+		sourceUrl: 'https://github.com/sujeettx/Real-Estate',
 		status: 'completed',
 	},
 ];
